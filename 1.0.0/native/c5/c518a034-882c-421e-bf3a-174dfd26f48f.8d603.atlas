@@ -1,0 +1,13 @@
+
+beijingguangxiao.jpg
+size: 272,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_shine
+  rotate: false
+  xy: 1, 1
+  size: 270, 260
+  orig: 270, 260
+  offset: 0, 0
+  index: -1

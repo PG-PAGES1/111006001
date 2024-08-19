@@ -1,0 +1,13 @@
+
+UI.png
+size: 380,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui/dikuang
+  rotate: false
+  xy: 1, 1
+  size: 378, 113
+  orig: 378, 115
+  offset: 0, 1
+  index: -1

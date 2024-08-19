@@ -1,0 +1,83 @@
+
+yuansuzhongjiang.png
+size: 1792,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniutuguangxiao/ps_circle_00
+  rotate: true
+  xy: 1, 1
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_01
+  rotate: true
+  xy: 164, 1
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_02
+  rotate: true
+  xy: 327, 1
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_03
+  rotate: true
+  xy: 490, 1
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_04
+  rotate: true
+  xy: 653, 1
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_05
+  rotate: true
+  xy: 816, 1
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_06
+  rotate: false
+  xy: 979, 1
+  size: 160, 160
+  orig: 160, 161
+  offset: 0, 1
+  index: -1
+anniutuguangxiao/ps_circle_07
+  rotate: true
+  xy: 1141, 1
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_08
+  rotate: true
+  xy: 1304, 1
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_09
+  rotate: true
+  xy: 1467, 1
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_10
+  rotate: true
+  xy: 1630, 1
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+yuansuzhongjiang.jpg
+size: 965,609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniutuguangxiao/ps_circle_00
+  rotate: false
+  xy: 79, 24
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_01
+  rotate: false
+  xy: 161, 24
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_02
+  rotate: false
+  xy: 243, 24
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_03
+  rotate: false
+  xy: 325, 24
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_04
+  rotate: false
+  xy: 407, 24
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_05
+  rotate: true
+  xy: 883, 528
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_06
+  rotate: true
+  xy: 776, 528
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_07
+  rotate: false
+  xy: 776, 312
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_08
+  rotate: false
+  xy: 858, 312
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_09
+  rotate: true
+  xy: 883, 230
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+anniutuguangxiao/ps_circle_10
+  rotate: true
+  xy: 883, 148
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+bg_shine
+  rotate: true
+  xy: 776, 395
+  size: 131, 132
+  orig: 131, 132
+  offset: 0, 0
+  index: -1
+bg_shine_big
+  rotate: false
+  xy: 1, 261
+  size: 332, 347
+  orig: 332, 347
+  offset: 0, 0
+  index: -1
+fx_glow
+  rotate: true
+  xy: 1, 18
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_00
+  rotate: true
+  xy: 1, 107
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_01
+  rotate: true
+  xy: 148, 107
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_02
+  rotate: true
+  xy: 295, 107
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_03
+  rotate: true
+  xy: 335, 456
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_04
+  rotate: true
+  xy: 335, 302
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_05
+  rotate: true
+  xy: 442, 148
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_06
+  rotate: false
+  xy: 489, 1
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_07
+  rotate: true
+  xy: 482, 456
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_08
+  rotate: true
+  xy: 482, 302
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_09
+  rotate: true
+  xy: 589, 148
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_10
+  rotate: false
+  xy: 643, 1
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_11
+  rotate: true
+  xy: 629, 456
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_12
+  rotate: true
+  xy: 629, 302
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_13
+  rotate: true
+  xy: 736, 148
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+lizi/ps_particle_14
+  rotate: false
+  xy: 797, 1
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1

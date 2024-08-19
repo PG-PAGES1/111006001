@@ -1,0 +1,41 @@
+
+coin.png
+size: 147,30
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbitu/bw_coin_00
+  rotate: true
+  xy: 1, 1
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+jinbitu/bw_coin_01
+  rotate: true
+  xy: 32, 1
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+jinbitu/bw_coin_02
+  rotate: true
+  xy: 63, 1
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+jinbitu/bw_coin_04
+  rotate: true
+  xy: 94, 1
+  size: 28, 25
+  orig: 28, 29
+  offset: 0, 2
+  index: -1
+jinbitu/bw_coin_05
+  rotate: true
+  xy: 121, 1
+  size: 28, 25
+  orig: 28, 29
+  offset: 0, 2
+  index: -1
